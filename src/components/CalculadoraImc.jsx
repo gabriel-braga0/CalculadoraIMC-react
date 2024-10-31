@@ -30,7 +30,7 @@ export default function CalculadoraImc() {
   return (
     <div
       className="grid pt-10 place-items-center min-h-[70vh]"
-      data-theme="luxury"
+      data-theme="cyberpunk"
     >
       <form onSubmit={calcularImc}>
         <label

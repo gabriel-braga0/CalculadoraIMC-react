@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 const App = () => {
   return (
     //para o footer ficar no final da tela
-    <div data-theme="luxury" className="flex flex-col min-h-screen">
+    <div data-theme="cyberpunk" className="flex flex-col min-h-screen">
       <main className="flex-grow">
         <Header title={"Calculadora IMC"} />
         <CalculadoraImc />
